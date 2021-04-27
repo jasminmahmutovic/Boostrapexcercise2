@@ -1,0 +1,11 @@
+1. Vad heter klassen som är till för knappar i Bootstrap?
+ - <button type="button" class="btn btn-primary">Primary</button> exempel
+
+ 2. Vad heter klassen för att lägga till "margin-top" i Bootstrap?
+ - mt-X = M: Margin T: Top och X: är värdet.
+
+ 3. Om "hamburgar-menyn" i Bootstrap inte fungerar, vad bör man göra då?
+ vad är lösningen?
+ -Man bör kolla så att man har länkat in bootstraps javascript.
+ Om man ev. har missat det är det så enkelt att bara länka in det i sin HTML kod.
+ 
